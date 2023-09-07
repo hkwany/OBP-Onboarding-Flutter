@@ -15,6 +15,12 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Configure
 
+JDK setting:
+```shell
+java 11.0.11 2021-04-20 LTS
+Java(TM) SE Runtime Environment 18.9 (build 11.0.11+9-LTS-194)
+Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.11+9-LTS-194, mixed mode)
+```
 Settings file is `lib/utils/constant.dart`.
 
 You should modify the following values:

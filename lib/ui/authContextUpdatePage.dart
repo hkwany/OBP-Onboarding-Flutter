@@ -235,7 +235,7 @@ class _AuthContextUpdatePageState extends State<AuthContextUpdatePage> {
                 initialValue: {
                   'confrim_way': 'SMS',
                 },
-                autovalidate: false,
+                autovalidateMode: AutovalidateMode.disabled,
                 child: Column(
                   children: <Widget>[
                     FormBuilderDropdown(
